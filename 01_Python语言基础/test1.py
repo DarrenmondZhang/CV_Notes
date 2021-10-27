@@ -4,3 +4,5 @@ def inf():
 
 def fun(a, b):
     return a* b
+
+import os
